@@ -1,0 +1,112 @@
+.main-header {
+  width: 100%;
+  height: 50px;
+  background-color: #163047;
+}
+h1 {
+  color: white;
+}
+.main-table {
+  border: 1px solid black;
+}
+td {
+  width: 300px;
+  height: 200px;
+}
+.main-footer {
+  width: 100%;
+  height: 25px;
+  background-color: #ff751f;
+}
+
+/* Kolom 1 */
+#tdc1 {
+  color: white;
+  background-color: #163047;;
+}
+#tdc2 {
+  color: white;
+  background-color: #005689;
+}
+#tdc3  {
+  color: white;
+  background-color: #2e94b9;
+}
+#tdc4 {
+  /* color: white; */
+  background-color: #8ed6ff;
+}
+
+/* Kolom 2 */
+#tdc5 {
+  background-color: rgb(255, 0, 108);
+}
+.tdci2 {
+  width: 300px;
+  height: 200px;
+}
+#tdc6 {
+  background-color: rgb(214, 43, 112);
+}
+.tdci2 {
+  width: 300px;
+  height: 200px;
+}
+#tdc7 {
+  background-color: rgb(151, 57, 97);
+}
+.tdci3 {
+  width: 300px;
+  height: 200px;
+}
+#tdc8 {
+  background-color: rgb(98, 52, 72);
+}
+.tdci4 {
+  width: 300px;
+  height: 200px;
+}
+
+/* Kolom 3 */
+#tdc9 {
+  background-color: #ffd900c6;
+}
+#tdc10 {
+  background-color: #ffa60073;
+}
+#tdc11 {
+  background-color: #cd730cd9;
+}
+#tdc12 {
+  background-color: #ff751f;
+}
+
+/* Kolom 4 */
+#tdc13 {
+  background-color: lightcoral;
+}
+.tdci5 {
+  width: 300px;
+  height: 200px;
+}
+#tdc14 {
+  background-color: red;
+}
+.tdci6 {
+  width: 300px;
+  height: 200px;
+}
+#tdc15 {
+  background-color: green;
+}
+.tdci7 {
+  width: 300px;
+  height: 200px;
+}
+#tdc16 {
+  background-color: darkgreen
+}
+.tdci8 {
+  width: 300px;
+  height: 200px;
+}
